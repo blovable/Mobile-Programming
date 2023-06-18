@@ -1,0 +1,53 @@
+<!--
+  ~ Copyright (c) 2021 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Treasure Member</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="list_fragment_label">Treasure</string>
+    <string name="news_fragment_label">Treasure News</string>
+
+    <string name="title_placeholder">Title</string>
+    <string name="news_title">News</string>
+    <string name="sports_info_placeholder">Here is some news</string>
+    <string name="sports_news_detail_text">TREASURE adalah grup boyband K-pop yang dibentuk oleh YG Entertainment melalui acara survival "YG Treasure Box" pada tahun 2018-2019. Mereka resmi debut pada 7 Agustus 2020 dengan album "The First Step: Chapter One</string>
+    />
+
+    <string name="baseball">Hyunsuk</string>
+    <string name="badminton">Jihoon</string>
+    <string name="basketball">Yoshi</string>
+    <string name="bowling">Junkyu</string>
+    <string name="cycling">Jaehyuk</string>
+    <string name="golf">Asahi</string>
+    <string name="running">Doyoung</string>
+    <string name="soccer">Haruto</string>
+    <string name="swimming">Jeongwoo</string>
+    <string name="table_tennis">Junghwan</string>
+    <string name="tennis"> </string>
+
+
+    <string name="baseball_subtitle">Here is some Hyunsuk news!</string>
+    <string name="badminton_subtitle">Here is some Jihoon news!</string>
+    <string name="basketball_subtitle">Here is some Yoshi news!</string>
+    <string name="bowling_subtitle">Here is some Junkyu news!</string>
+    <string name="cycling_subtitle">Here is some Jaehyuk news!</string>
+    <string name="golf_subtitle">Here is some Asahi news!</string>
+    <string name="running_subtitle">Here is some Doyoung news!</string>
+    <string name="soccer_subtitle">Here is some Haruto news!</string>
+    <string name="swimming_subtitle">Here is some Jeongwoo news!</string>
+    <string name="table_tennis_subtitle">Here is some Junghwan news!</string>
+    <string name="tennis_subtitle"> </string>
+</resources>
